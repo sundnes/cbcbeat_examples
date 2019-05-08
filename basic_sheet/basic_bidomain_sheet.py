@@ -1,6 +1,6 @@
 """
-This example solves the monodomain model with the parsimonious cell model,
-for the thin sheet geometry we will use in the EMI/bidomain comparison.
+This example solves the bidomain model with the parsimonious cell model,
+for a thin sheet geometry with different stimuli and boundary conditions. 
 """
 
 # Import the cbcbeat module
